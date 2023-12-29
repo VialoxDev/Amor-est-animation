@@ -1,31 +1,19 @@
 body{
+  color:#ffff;
   background-color:#202124;
-  color:white;
 }
-header{
-  background-color:#608bdd;
-  border-radius:5px;
-  text-align:center;
-  padding:10px 0;
+a{
+  color:#47aaf3;
+}
+main{
+  margin-top:40px;
+  margin-bottom:40px;
+  text-align: center;
 }
 footer{
-  padding:10px 0;
-  text-align:center;
-  text-decoration:underline;
-}
-.parent{
-  margin-top:10px;
-  margin-bottom:10px;
   text-align:center;
 }
 iframe{
-  border:solid #ffff;
-  border-width:3px;
   border-radius:10px;
-}
-a{
-  margin-right:10px;
-  margin-left:10px;
-  color:#ffff;
-  text-decoration:none;
+  border:solid;
 }
