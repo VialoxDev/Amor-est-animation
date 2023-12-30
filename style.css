@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&family=Nunito:wght@600&display=swap');
 body{
   color:#ffff;
   background-color:#202124;
+  font-family: 'Comic Neue', cursive;
+font-family: 'Nunito', sans-serif;
 }
 a{
   color:#47aaf3;
@@ -9,6 +12,7 @@ main{
   margin-top:40px;
   margin-bottom:40px;
   text-align: center;
+  min-height:83vh;
 }
 footer{
   text-align:center;
